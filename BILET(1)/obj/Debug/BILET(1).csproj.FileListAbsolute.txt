@@ -1,0 +1,7 @@
+C:\Users\mrban\Desktop\BILET(1)\bin\Debug\BILET(1).exe.config
+C:\Users\mrban\Desktop\BILET(1)\bin\Debug\BILET(1).exe
+C:\Users\mrban\Desktop\BILET(1)\bin\Debug\BILET(1).pdb
+C:\Users\mrban\Desktop\BILET(1)\obj\Debug\BILET(1).csproj.AssemblyReference.cache
+C:\Users\mrban\Desktop\BILET(1)\obj\Debug\BILET(1).csproj.CoreCompileInputs.cache
+C:\Users\mrban\Desktop\BILET(1)\obj\Debug\BILET(1).exe
+C:\Users\mrban\Desktop\BILET(1)\obj\Debug\BILET(1).pdb
