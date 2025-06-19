@@ -1,0 +1,8 @@
+C:\Users\mrban\Desktop\BILET14\bin\Debug\BILET14.exe.config
+C:\Users\mrban\Desktop\BILET14\bin\Debug\BILET14.exe
+C:\Users\mrban\Desktop\BILET14\bin\Debug\BILET14.pdb
+C:\Users\mrban\Desktop\BILET14\obj\Debug\BILET14.csproj.AssemblyReference.cache
+C:\Users\mrban\Desktop\BILET14\obj\Debug\BILET14.csproj.CoreCompileInputs.cache
+C:\Users\mrban\Desktop\BILET14\obj\Debug\BILET14.exe
+C:\Users\mrban\Desktop\BILET14\obj\Debug\BILET14.pdb
+C:\Users\mrban\Desktop\BILET14\obj\Debug\BILET14.exe.config
